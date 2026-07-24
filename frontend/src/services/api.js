@@ -1,4 +1,4 @@
-const API_URL = "https://cybershield-backend-jpqw.onrender.com";
+const API_URL = "https://cybershield-ar41.onrender.com";
 
 export async function analyzeWebsite(url) {
   const response = await fetch(`${API_URL}/analyze`, {
