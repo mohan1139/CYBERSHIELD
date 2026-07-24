@@ -15,9 +15,9 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
-        "https://cybershield-o8qu.onrender.com",
-    ],
+    "http://localhost:5173",
+    "https://cybershield-six-smoky.vercel.app",
+],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
