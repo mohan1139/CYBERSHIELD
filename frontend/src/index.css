@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+@import "tailwindcss";
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html,
+body,
+#root{
+  width:100%;
+  min-height:100%;
+}
+
+body{
+  font-family:'Poppins',sans-serif;
+  background:linear-gradient(
+      180deg,
+      #f7fbff 0%,
+      #eef5ff 100%
+  );
+  overflow-x:hidden;
+}
+
+button{
+  cursor:pointer;
+}
+
+a{
+  text-decoration:none;
+}
