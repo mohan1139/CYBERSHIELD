@@ -129,14 +129,11 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-**Charan Sai Balaji**
+**Veeramohan Balepalli**
 
 B.Tech CSE (Cybersecurity)
 
-GitHub: https://github.com/charansaibalaji
-
-LinkedIn:
-https://www.linkedin.com/in/charan-sai-balaji-3076aa296
+GitHub:https://github.com/mohan1139
 
 ---
 
